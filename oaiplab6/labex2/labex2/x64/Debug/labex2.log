@@ -1,0 +1,7 @@
+﻿  labex2.cpp
+D:\oaiplab5\labex2\labex2\labex2.cpp(7,5): warning C4305: инициализация: усечение из "double" в "float"
+D:\oaiplab5\labex2\labex2\labex2.cpp(7,14): warning C4305: инициализация: усечение из "double" в "float"
+D:\oaiplab5\labex2\labex2\labex2.cpp(11,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\oaiplab5\labex2\labex2\labex2.cpp(12,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\oaiplab5\labex2\labex2\labex2.cpp(17,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  labex2.vcxproj -> D:\oaiplab5\labex2\x64\Debug\labex2.exe

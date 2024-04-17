@@ -1,0 +1,7 @@
+﻿  lab1.cpp
+D:\oaiplab5\lab1\lab1\lab1.cpp(9,19): warning C4305: инициализация: усечение из "double" в "float"
+D:\oaiplab5\lab1\lab1\lab1.cpp(10,11): warning C4305: инициализация: усечение из "double" в "float"
+D:\oaiplab5\lab1\lab1\lab1.cpp(10,20): warning C4305: инициализация: усечение из "double" в "float"
+D:\oaiplab5\lab1\lab1\lab1.cpp(20,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\oaiplab5\lab1\lab1\lab1.cpp(21,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab1.vcxproj -> D:\oaiplab5\lab1\x64\Debug\lab1.exe
